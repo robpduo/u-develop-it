@@ -106,3 +106,5 @@ app.use((req, res) => {
 app.listen(PORT, () => {
     console.log('Server running on port ${PORT}');
 });
+
+https://courses.bootcampspot.com/courses/2193/pages/12-dot-3-3-create-and-populate-a-parties-table?module_item_id=568295

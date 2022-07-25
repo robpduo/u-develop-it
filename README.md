@@ -24,13 +24,13 @@ This program demonstrates the usage of CRUD operations on a relational database 
 ## Routes available to test:
 ### Candidate Routes
 1. GET `localhost:3001/api/candidates`
-2. GET `localhost:3001/api/candidate/:id
+2. GET `localhost:3001/api/candidate/:id`
 3. POST `localhost:3001/api/candidate` with request body: { first_name, last_name, industry_connected }
 4. DELETE `localhost:3001/api/candidate/:id`
 
 ### Party Routes
-1. GET `localhost:3001/api/parties
-2. GET `localhost:3001/api/party/:id
+1. GET `localhost:3001/api/parties`
+2. GET `localhost:3001/api/party/:id`
 3. DELETE `localhost:3001/api/party/:id`
 
 ### Voter Routes
@@ -38,6 +38,6 @@ This program demonstrates the usage of CRUD operations on a relational database 
 2. GET `localhose:3001/api/voter/:id`
 3. POST `localhost:3001/api/voter` with request body: { first_name, last_name, email }
 4. PUT `localhost:3001/api/voter/:id` with request body: { email }
-5. DELETE `localhost:3001/api/voter/:id
+5. DELETE `localhost:3001/api/voter/:id`
 
 

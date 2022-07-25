@@ -38,6 +38,17 @@ This program demonstrates the usage of CRUD operations on a relational database 
 2. GET `localhose:3001/api/voter/:id`
 3. POST `localhost:3001/api/voter` with request body: { first_name, last_name, email }
 4. PUT `localhost:3001/api/voter/:id` with request body: { email }
-5. DELETE `localhost:3001/api/voter/:id`
+5. DELETE `localhost:300<img width="1162" alt="Screen Shot 2022-07-24 at 11 01 51 PM" src="https://user-images.githubusercontent.com/101683611/180689304-e6f43096-55a7-4a37-9061-f5805f147664.png">
+1/api/voter/:id`
+
+## Usages
+![Uploading Screen Shot 2022-07-24 at 11.01.51 PM.png…]()
+- sample parties database </br>
+
+<img width="613" alt="Screen Shot 2022-07-24 at 11 03 27 PM" src="https://user-images.githubusercontent.com/101683611/180689737-1acfd232-5971-4734-8a44-2e0ad2ce28ba.png">
+- sample voters database </br>
+
+
+
 
 

@@ -42,13 +42,14 @@ This program demonstrates the usage of CRUD operations on a relational database 
 1/api/voter/:id`
 
 ## Usages
-![Uploading Screen Shot 2022-07-24 at 11.01.51 PM.png…]()
+<img width="1162" alt="Screen Shot 2022-07-24 at 11 01 51 PM" src="https://user-images.githubusercontent.com/101683611/180690039-ea402917-4371-4572-b33e-af3e973f1179.png">
 - sample parties database </br>
 
 <img width="613" alt="Screen Shot 2022-07-24 at 11 03 27 PM" src="https://user-images.githubusercontent.com/101683611/180689737-1acfd232-5971-4734-8a44-2e0ad2ce28ba.png">
 - sample voters database </br>
 
-
+<img width="458" alt="Screen Shot 2022-07-24 at 11 04 59 PM" src="https://user-images.githubusercontent.com/101683611/180690352-ea5a4f58-cdc1-4b9b-b1d6-27b060aa2db3.png">
+- sample candidates database </br>
 
 
 

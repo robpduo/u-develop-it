@@ -16,8 +16,10 @@ This program demonstrates the usage of CRUD operations on a relational database 
 ## To Run
 1. Clone Repository from: https://github.com/robpduo/u-develop-it.git </br>
 2. On the root directory, run `npm install` to download all the required dependencies
-3. To run the server use `npm start`
-4. To run the unit test, use `npm test`
+3. With mysql installed, open mysql on the command line and run `mysql -u root -p` on the root directory
+4. setup the relational database by typing `source db/db.sql`, `source db/schema.sql`, `db/seeds.sql` in respective order
+5. To run the server use `npm start`
+6. To run the unit test, use `npm test`
 
 ## Usage
 
